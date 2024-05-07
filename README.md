@@ -1,5 +1,8 @@
 # kaggle_0
 A repo with kaggle dataset for SWE agent to work on.
+Because we like to keep things light-hearted around here, here's a joke for you:
+
+"Why do programmers prefer dark mode? Because light attracts bugs."
 
 
 1. A dataset is uploaded and a template data science jupyter notebook is uploaded.
